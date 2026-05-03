@@ -18,9 +18,7 @@ A sleek and interactive iPhone landing page built with **React**, styled using *
 - **3D Graphics:** Three.js
 - **Bundler:** Vite or Create React App (depending on setup)
 
-## 📸 Screenshots
 
-> *(Add images here if possible, e.g. landing page view, 3D iPhone preview)*
 
 ## 📁 Folder Structure
 
